@@ -1,2 +1,2 @@
 # dotfiles
-dotfiles by rosen8012
+dotfiles by my
