@@ -1,2 +1,2 @@
 # dotfiles
-dotfiles by my
+dotfiles by me
